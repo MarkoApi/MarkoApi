@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MarkoApi
+- 👀 I’m interested in project development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on discord bot development
